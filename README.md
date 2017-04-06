@@ -1,7 +1,10 @@
-# test
+# 功能列表
 
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
+- [x] 工单流程重构，增加关单流程，转单流程，合单流程，重开流程
+- [x] 工单合并关联和工单解除合并关联
+- [x] 已关闭工单重开
+- [x] 全操作日志记录和展示
+- [x] 用户组管理
+- [x] 用户组派单、转单和用户组通知
+- [x] 报警站点设备与处理人关联及管理
+- [x] 前端用户界面改版 （开发自主提出）
